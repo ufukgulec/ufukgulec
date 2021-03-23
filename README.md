@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben, Ufuk</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meleklacin&label=Profile%20views&color=0e75b6&style=flat" alt="meleklacin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ufukgulec&label=Profile%20views&color=0e75b6&style=flat" alt="ufukgulec" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
