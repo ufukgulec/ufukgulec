@@ -12,6 +12,7 @@
 
 <h3 align="left">Hesaplarım</h3>
 <p align="left">
+  <a href="https://codepen.io/ufukgulecc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ufukgulecc" height="30" width="40" /></a>
 <a href="https://twitter.com/ufukgulecc1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ufukgulecc1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ufukgulec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ufukgulec" height="30" width="40" /></a>
 <a href="https://instagram.com/ufukgulec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ufukgulec" height="30" width="40" /></a>
